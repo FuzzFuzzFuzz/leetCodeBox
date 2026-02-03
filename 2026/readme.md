@@ -1,1 +1,1 @@
-# Leet Code Answers 2026
+# [LeetCode](https://leetcode.com) Answers 2026
