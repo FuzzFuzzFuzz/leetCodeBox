@@ -8,8 +8,10 @@ A subarray is called balanced if the number of distinct even numbers in the suba
 
 Return the length of the longest balanced subarray.
 
+
 Constraints:
 1 <= nums.length <= 10^5
+
 1 <= nums[i] <= 10^5
 
 ### [Link](https://leetcode.com/problems/longest-balanced-subarray-ii/description/?envType=daily-question&envId=2026-02-11)
